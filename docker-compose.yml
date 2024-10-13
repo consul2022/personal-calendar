@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  calendar_app:
+    build: .
+    stdin_open: true
+    tty: true
+
+
+
